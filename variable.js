@@ -26,7 +26,7 @@ var batteryT3 = 0; var batteryT3MetalCost = 5500000; var batteryT3GemCost = 5500
 var batteryT4 = 0; var batteryT4MetalCost = 55000000; var batteryT4GemCost = 55000000; var batteryT4LunariteCost = 33000000;
 var batteryT5 = 0; var batteryT5MetalCost = 490000000; var batteryT5GemCost = 490000000; var batteryT5LunariteCost = 270000000;
 var charcoalEngine = 0; var charcoalEngineMetalCost = 50; var charcoalEngineGemCost = 25; var charcoalEngineCharcoalInput = 1; var charcoalEngineOutput = 2;
-var solarPanel = 0; var solarPanelMetalCost = 30; var solarPanelGemCost = 35; var solarPanelOutput = 1.5;
+var solarPanel = 0; var solarPanelMetalCost = 0; var solarPanelGemCost = 0; var solarPanelOutput = 1000;
 var methaneStation = 0; var methaneStationLunariteCost = 110; var methaneStationTitaniumCost = 90; var methaneStationMethaneInput = 6; var methaneStationOutput = 23;
 var nuclearStation = 0; var nuclearStationLunariteCost = 20000; var nuclearStationTitaniumCost = 10000; var nuclearStationUraniumInput = 7; var nuclearStationOutput = 153;
 var magmatic = 0; var magmaticLunariteCost = 25000; var magmaticGemCost = 20000; var magmaticSilverCost = 15000; var magmaticLavaInput = 11; var magmaticOutput = 191;
